@@ -18,7 +18,7 @@ This project is a simple web application built with Streamlit to check if a Bitc
    git clone https://github.com/Thereisnosecondbest/knotsspamchecker.git
    cd knotsspamchecker
 
-2. Install the dependencies:
+3. Install the dependencies:
    pip install -r requirements.txt
 
 ## Usage
